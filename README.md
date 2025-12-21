@@ -49,7 +49,7 @@ fraud-detection/
 ### Setup
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/rahel-yab/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions.git
 cd fraud-detection
 
 # Create virtual environment
