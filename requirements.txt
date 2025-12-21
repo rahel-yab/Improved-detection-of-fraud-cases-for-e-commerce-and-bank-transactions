@@ -1,5 +1,16 @@
 pandas
 numpy
-sklearn
+scikit-learn
 matplotlib
+seaborn
 scipy
+imbalanced-learn
+xgboost
+lightgbm
+shap
+jupyter
+plotly
+ipykernel
+pytest
+black
+flake8
